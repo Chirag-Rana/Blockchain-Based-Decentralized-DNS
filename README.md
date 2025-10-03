@@ -64,6 +64,6 @@ The smart contract is the single source of truth for all domain registrations.
 The expected outcomes for this project include:
 
 1.  **A Working System:** A fully functional prototype including the smart contract, DNS resolver, and web interface. 
-2.  [cite_start]**Complete Source Code:** This GitHub repository containing all documented code. [cite: 90]
-3.  [cite_start]**Technical Report:** A 6-8 page implementation and analysis document. [cite: 91]
-4.  [cite_start]**Live Presentation:** A 15-minute demo of the working system. [cite: 93]
+2.  **Complete Source Code:** This GitHub repository containing all documented code. 
+3.  **Technical Report:** A 6-8 page implementation and analysis document. 
+4.  **Live Presentation:** A 15-minute demo of the working system. 
